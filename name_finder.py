@@ -1,5 +1,4 @@
 # Name: Justin Cruz
-# REDID: 819590766
 
 import os.path
 import sys
