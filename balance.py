@@ -1,5 +1,4 @@
 # Justin Cruz
-# Red ID: 819590766
 
 import os.path
 import sys
