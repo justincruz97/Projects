@@ -1,2 +1,2 @@
 # Projects
-previous university projects
+previous university projects created in Python.
