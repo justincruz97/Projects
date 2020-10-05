@@ -1,5 +1,9 @@
 # Justin Cruz cssc1832  & Jasmine Camacho cssc1835
 
+# This file will read and extract data from pokemon.csv
+# The data used will ask the reader to enter 3 Pokemon of their choice
+# and 1 enemy Pokemon of their choice to battle.
+
 import numpy as np
 import pandas as pd
 from operator import itemgetter, attrgetter
